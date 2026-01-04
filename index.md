@@ -9,3 +9,9 @@ Click [here](ui.md) to find out.
 
 How to make Variables?
 Click [here](variables.md) to find out.
+
+How to print?
+Click [here](printing.md) to find out.
+
+How to import packages from Python and use them?
+Click [here](importingpythonpackagesandusingthem.md) to find out.
