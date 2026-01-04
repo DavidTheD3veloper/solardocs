@@ -6,3 +6,5 @@ Latest version currently is: v1.0.1
 
 How to make UI?
 Click [here](ui.md) to find out.
+How to make Variables?
+Click [here](variables.md) to find out.
