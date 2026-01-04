@@ -14,7 +14,7 @@ Here's how you make simple UI:
 ## Changing window size
 ```ui size main 460 260```
 ## Changing background color (hex)
-```ui bg main "#1e1e1e"
+```ui bg main "#1e1e1e"```
 ## Changing foreground color (hex)
 ```ui fg main "#ffffff"```
 (Recommended foreground color if BG color is Black: #ffffff)
