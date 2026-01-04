@@ -15,3 +15,6 @@ Click [here](printing.md) to find out.
 
 How to import packages from Python and use them?
 Click [here](importingpythonpackagesandusingthem.md) to find out.
+
+Solar even parses Pygame with it's syntax!
+Click [here](pygame_solar_example.md) to find out more!
