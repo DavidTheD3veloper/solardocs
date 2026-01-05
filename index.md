@@ -2,7 +2,15 @@
 
 Welcome to the official documentation of the Solar programming language.
 Here you can find info like the latest version, what functions are there etc.
-Latest version currently is: v1.0.1
+Latest version currently is: v1.0.2
+
+How to install Solar?
+You NEED Python 3.9+ installed.
+After you installed that just run:
+```pip install solar-lang```
+to find out the commands, just type:
+```solar help```
+It's that simple!
 
 How to make UI?
 Click [here](ui.md) to find out.
