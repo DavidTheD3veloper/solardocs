@@ -28,7 +28,9 @@ NOTE: l1 is the label ID this can be anything.
 ```ui checkbox main agree "any text here lol" at 20 70```
 
 ## Adding a button that does nothing
-```ui button main b1 "this does nothing lolo" at 20 120```
+```ui button main b1 "this does nothing lolo" at 20 120 do print ""```
+Why ```print ""```? Well it's becuase of an unknown error in the interpreter that I'm working on.
+This will be fixed in future versions!
 ## Adding a button that does something
 ```ui button main b1 "this does something" at 20 120 do function_name```
 NOTE: You actually NEED to define the function using Python's def() function (later on will be Solar's own defining system)
