@@ -1,6 +1,3 @@
 title: Solar Documentation
 description: Official documentation of the Solar programming language.
-plugins:
-  - jekyll-remote-theme
-remote_theme: olivier3lanc/Jekyll-LibDoc
-
+theme: jekyll-theme-cayman
