@@ -12,16 +12,17 @@ Solar v1.0.3 is a major release focused on making Solar feel like a real languag
 
 ### solar_def: Solar functions
 
+## YOU CANT MAKE FUNCTIONS WITH ARGS YET!! I WILL ADD IT IN 1.0.4!!
 Define functions in Solar (no Python passthrough needed) and call them like normal Solar commands.
 
 Example:
 
 ```solar
-solar_def greet(name, ok):
-    print "Hello" name "agree=" ok
+solar_def no_args:
+     print "test func without args"
 end
 
-greet "Dawid" 1
+no_args
 ```
 
 Notes:
